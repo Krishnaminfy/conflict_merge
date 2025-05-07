@@ -19,6 +19,10 @@ In this assignment I have made two branches and tried to make the same changes o
 
 So, I keep both the changes for the final commit to resolve the issue
 
+# branching
+![image](https://github.com/user-attachments/assets/5e5d8fa3-3027-4edd-9de8-06dfe8df6329)
+
+
 # final commit
 ![image](https://github.com/user-attachments/assets/f6e72463-44f0-4d65-9dfe-944150a15c3b)
 
